@@ -106,4 +106,5 @@ const podeAcessar = (new Date() - dataNascimento) >= dezoitoAnosEmMilissegundos 
 console.log(podeAcessar);
 
 
+
 //#endregion
